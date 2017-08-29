@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstLiveWallpaper</string>
+    <string name="wallpaper_description">My first live wallpaper</string>
+    <string name="title_activity_initial">First Live wallpaper</string>
+</resources>
